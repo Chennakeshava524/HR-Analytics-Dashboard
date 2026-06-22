@@ -1,134 +1,70 @@
-📊 HR Analytics Dashboard
-📌 Project Overview
+# HR Analytics Dashboard
 
-The HR Analytics Dashboard is an interactive Excel-based analytics project designed to analyze employee data and identify key workforce trends. This project focuses on understanding employee demographics, attrition behavior, job roles, departments, education background, and satisfaction levels.
+## Project Overview
 
-The dashboard provides HR teams with meaningful insights to support better decision-making related to employee retention and workforce planning.
+Developed an interactive HR Analytics Dashboard using Power BI to analyze employee data, understand workforce trends, employee attrition patterns, and generate meaningful HR insights. The dashboard helps HR teams analyze employee performance, retention, and workforce behavior for better decision-making.
 
-🎯 Business Problem
+## Tools Used
 
-Organizations need to understand:
+* Power BI
+* Power Query
+* DAX
+* Data Visualization
 
-Why employees leave the company
-Which departments have higher attrition
-Which job roles are affected most
-Employee distribution across different categories
-Workforce characteristics and satisfaction levels
+## Dataset
 
-This dashboard helps HR professionals analyze these patterns effectively.
+The dataset contains employee details used for analyzing workforce and attrition patterns.
 
-🛠️ Technologies & Skills Used
-Tools:
-Microsoft Excel
-Excel Features:
-Pivot Tables
-Pivot Charts
-Slicers
-Data Cleaning
-Data Analysis
-Dashboard Creation
-Data Visualization
-Analytical Skills:
-KPI Development
-Trend Analysis
-Employee Segmentation
-Business Insights Generation
-📈 Dashboard KPIs
-KPI	Value
-Total Employees	1470
-Attrition Count	237
-Active Employees	1233
-Attrition Rate	16.12%
-Average Age	37
-Job Satisfaction Rating	2.6
-📊 Dashboard Analysis
-👥 Employee Demographics
-Gender Analysis
-Analyzed employee distribution based on gender
-Compared male and female employee counts
-Education Analysis
-Studied attrition across different education levels:
-Bachelor's Degree
-Master's Degree
-Associate Degree
-High School
-Doctoral Degree
-🚪 Employee Attrition Analysis
+### Dataset Details
 
-The dashboard analyzes employee exits based on:
+* Employee Information
+* Gender
+* Age
+* Department
+* Job Role
+* Education Field
+* Marital Status
+* Attrition Details
+* Job Satisfaction Rating
 
-Department
-HR
-Research & Development
-Sales
-Job Roles
+### Dataset Size
 
-Analyzed attrition among roles such as:
+* Total Employee Records: 1470
 
-Laboratory Technician
-Sales Executive
-Research Scientist
-Human Resources
-Healthcare Representative
-Manager
-Age Group
+## Project Workflow
 
-Employee attrition analyzed across:
+1. Data Import and Cleaning using Power Query
+2. Data Transformation and Data Modeling
+3. Creating KPIs and Measures using DAX
+4. Building Interactive HR Dashboard using Power BI
 
-Under 25
-25-34
-35-44
-45-54
-Over 55
-Marital Status
+## Dashboard KPIs
 
-Analyzed employee attrition based on:
+* Total Employees
+* Attrition Count
+* Active Employees
+* Attrition Rate
+* Average Employee Age
+* Job Satisfaction Rating
 
-Married
-Single
-Divorced
-🔍 Key Insights
-Total workforce consists of 1470 employees
-Attrition rate is 16.12%
-R&D department shows higher employee attrition compared to other departments
-Laboratory Technician and Sales Executive roles show higher attrition
-Employees between 25-34 age group contribute significantly to attrition
-Education level analysis helps identify workforce trends
-🎨 Dashboard Features
+## Dashboard Analysis
 
-✅ Interactive dashboard layout
-✅ KPI cards for quick overview
-✅ Multiple visualization charts
-✅ Dynamic slicers
-✅ HR-focused business insights
-✅ Easy-to-understand reporting format
+* Employee distribution analysis
+* Gender-wise employee analysis
+* Education-wise attrition analysis
+* Department-wise attrition analysis
+* Job role-wise attrition analysis
+* Age group analysis
+* Employee satisfaction analysis
 
-📂 Project Structure
-HR-Analytics-Dashboard
+## Key Insights
 
-│
-├── HR Analytics Dashboard.xlsx
-│
-├── README.md
-│
-└── Screenshots
-    │
-    ├── 1_HR_Dashboard_Overview.png
-    ├── 2_KPI_Metrics.png
-    ├── 3_Gender_Analysis.png
-    ├── 4_Education_Analysis.png
-    ├── 5_Department_Attrition.png
-    └── 6_JobRole_Analysis.png
-📷 Dashboard Preview
+* Identified employee attrition trends across different departments and job roles
+* Analyzed workforce distribution based on employee demographics
+* Evaluated factors affecting employee retention
+* Studied employee satisfaction and engagement patterns
+* Generated HR insights using interactive dashboard visualizations
 
+## Project Outcome
 
-
-
-🚀 Project Outcome
-
-This project demonstrates the ability to:
-
-Transform raw employee data into meaningful insights
-Create interactive business dashboards
-Analyze HR metrics
-Present data-driven recommendations
+Created an interactive HR Analytics Dashboard that transforms employee data into actionable insights and helps understand workforce performance, employee retention, and organizational trends.
